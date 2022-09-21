@@ -1,2 +1,2 @@
-# JAVA Equação do Segundo Grau
- Equação do Segundo Grau
+# JAVA ☕ - Equação do Segundo Grau
+Equação do Segundo Grau
